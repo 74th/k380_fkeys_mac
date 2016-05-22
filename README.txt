@@ -1,4 +1,4 @@
-        K810 Function Key Switcher for MacOSX
+        K380 Function Key Switcher for MacOSX
         =====================================
 
 About
@@ -11,5 +11,3 @@ It requires root privileges to run, so in order to be run it has to have
 setuid bit set before launching.
 
 Feel free to work with it and use as needed.
-
-
